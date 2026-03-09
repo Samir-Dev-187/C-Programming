@@ -2,7 +2,7 @@
 
 #include<stdio.h>
 
-void main( )
+void main()
 {
     int i, j;
     for (i = 1; i <= 3; i++) 
